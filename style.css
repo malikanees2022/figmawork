@@ -2,6 +2,7 @@ body{
     margin: 0%;
     padding: 0px;
 }
+
 .bar{
     position: absolute;
 width: 100%;
@@ -973,4 +974,227 @@ height: 70px;
     .box-6{
         top: 1446px;
     }
+}
+@media only screen and (min-width: 1500px){
+    .img54{
+        left: 808px;
+    }
+    h4{
+        left: 307px;
+        top: 259px
+    }
+.para2{
+    left: 489px;
+}
+.para3{
+    left: 489px;
+}
+.fb{
+    left: 672px;
+}
+.twt{
+    left: 712px;
+}
+.lkd{
+    left: 755px
+}
+.box-1{
+    left: 269px;
+}
+.box-4{
+    left: 269px;
+}
+.box-5{
+    left: 594px;
+}
+.box-6{
+    left: 924px;
+}
+.footer-s{
+    width: 928px;
+}
+.googlef{
+    left: 729px;
+}
+.socf{
+    left: 864px;
+}
+.footer-para{
+    width: 950px;
+    font-size: 14.5px;
+}
+}
+@media only screen and (min-width: 1600px) and (max-width:1700px){
+    .img54{
+        left: 900px;
+    }
+    h4{    left: 359px;
+    }
+.para2{
+    left: 535px;
+}
+.para3{
+    left: 535px;
+}
+
+.fb{
+    left: 742px;
+}
+.twt{
+    left: 812px;
+}
+.lkd{
+    left: 880px
+}
+.box-1{
+    left: 316px;
+}
+.box-4{
+    left: 316px;
+}
+.box-5{
+    left: 643px;
+}
+.box-6{
+    left: 971px;
+}
+.btn2{
+    left: 639px;
+}
+.footer-s{
+    width: 928px;
+}
+.footer-m ul{
+    right: 542px;
+}
+.googlef{
+    left: 729px;
+}
+.socf{
+    left: 864px;
+}
+.footer-para{
+    width: 950px;
+    font-size: 14.5px;
+}
+}
+@media only screen and (min-width: 2000px) and (max-width:2300px){
+    .img54{
+        left: 1303px;
+    }
+    h4{   left: 660px;
+    }
+.para2{
+    left: 842px;
+}
+.para3{
+    left: 842px;
+}
+
+.fb{
+    left: 1020px;
+}
+.twt{
+    left: 1090px;
+}
+.lkd{
+    left: 1160px
+}
+.box-1{
+    left: 674px;
+    width: 974px;
+    height: 561px;
+}
+.box-4{
+    left: 674px;
+}
+.box-5{
+    left: 1007px;
+}
+.box-6{
+    left: 1340px;
+}
+.btn2{
+    left: 1007px;
+}
+.footer-s{
+    left: 683px;
+}
+.footer-m .copy{
+    left: 678px;
+}
+.footer-m ul{
+    right: 764px;
+}
+.googlef{
+    left: 729px;
+}
+.socf{
+    left: 864px;
+}
+.footer-para{
+    width: 950px;
+    font-size: 14.5px;
+    left: 678px;
+}
+}
+@media only screen and (min-width: 1700px) and (max-width:2000px){
+    .img54{
+        left: 1020px;
+    }
+    h4{      left: 437px;
+    }
+.para2{
+    left: 601px;
+}
+.para3{
+    left: 601px;
+}
+
+.fb{
+    left: 774px;
+}
+.twt{
+    left: 840px;
+}
+.lkd{
+    left: 910px
+}
+.box-1{
+    left:406px;
+    width: 974px;
+    height: 561px;
+}
+.box-4{
+    left: 406px;
+}
+.box-5{
+    left: 750px;
+}
+.box-6{
+    left: 1100px;
+}
+.btn2{
+    left: 750px;
+}
+.footer-s{
+    left: 424px;
+}
+.footer-m .copy{
+    left: 430px;
+}
+.footer-m ul{
+    right: 545px;
+}
+.googlef{
+    left: 729px;
+}
+.socf{
+    left: 864px;
+}
+.footer-para{
+    width: 950px;
+    font-size: 14.5px;
+    left: 422px;
+}
 }
